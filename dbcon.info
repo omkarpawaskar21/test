@@ -1,5 +1,5 @@
 <h1>This is my dbcon.file</h1>
-server host=
+server host=db_client21.mydomain.com
 server user=
 server pass=
 server port=
